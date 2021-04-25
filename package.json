@@ -1,0 +1,19 @@
+{
+  "name": "title-case-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohitsymb/title-case-converter.git"
+  },
+  "author": "mohit.gupta@symbtechnologies.com (@symbtechnologies)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohitsymb/title-case-converter/issues"
+  },
+  "homepage": "https://github.com/mohitsymb/title-case-converter#readme"
+}
